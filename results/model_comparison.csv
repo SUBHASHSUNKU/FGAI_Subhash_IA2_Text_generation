@@ -1,0 +1,5 @@
+Model,Parameters,Epochs_run,Best_epoch,Train_time_s,Time_per_epoch_s,Test_loss,Test_perplexity,Top1_acc,Top5_acc
+SimpleRNN,1754316,7,4,27.6,3.9,4.1765,65.14,28.51,46.85
+BiRNN,2953932,5,2,33.2,6.6,4.3137,74.72,27.59,45.27
+LSTM,2050764,8,5,50.4,6.3,4.0192,55.66,30.44,48.99
+GRU,1951948,6,3,34.6,5.8,4.0105,55.17,29.87,49.05
